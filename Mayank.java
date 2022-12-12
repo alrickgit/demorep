@@ -1,4 +1,4 @@
-public class Alrick {
+public class Mayank {
 
 	public static void main(String[] args) {
 
